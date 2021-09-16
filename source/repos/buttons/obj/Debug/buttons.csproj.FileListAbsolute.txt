@@ -1,0 +1,15 @@
+C:\Users\ithol\source\repos\buttons\bin\Debug\buttons.exe.config
+C:\Users\ithol\source\repos\buttons\bin\Debug\buttons.exe
+C:\Users\ithol\source\repos\buttons\bin\Debug\buttons.pdb
+C:\Users\ithol\source\repos\buttons\obj\Debug\buttons.Form1.resources
+C:\Users\ithol\source\repos\buttons\obj\Debug\buttons.Properties.Resources.resources
+C:\Users\ithol\source\repos\buttons\obj\Debug\buttons.csproj.GenerateResource.cache
+C:\Users\ithol\source\repos\buttons\obj\Debug\buttons.csproj.CoreCompileInputs.cache
+C:\Users\ithol\source\repos\buttons\obj\Debug\buttons.exe
+C:\Users\ithol\source\repos\buttons\obj\Debug\buttons.pdb
+C:\Users\ithol\source\repos\buttons\bin\Debug\aa\buttons.resources.dll
+C:\Users\ithol\source\repos\buttons\bin\Debug\en\buttons.resources.dll
+C:\Users\ithol\source\repos\buttons\obj\Debug\buttons.Form1.aa.resources
+C:\Users\ithol\source\repos\buttons\obj\Debug\buttons.Form1.en.resources
+C:\Users\ithol\source\repos\buttons\obj\Debug\aa\buttons.resources.dll
+C:\Users\ithol\source\repos\buttons\obj\Debug\en\buttons.resources.dll
